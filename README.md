@@ -24,7 +24,7 @@ If you want to contribute, please open a pull request!
 - [Town of Us Mira](https://github.com/AU-Avengers/TOU-Mira) - Town of Us Reactivated, but cleaner using MiraAPI with many improvements
 - [Modding Us](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
 - [Launchpad](https://launchpad.xtracube.dev/index.php/Main_Page) - adds a ton of new roles, game modes, and features
-- [PropHunt](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
+- [PropHunt](https://github.com/superidol1890/PropHuntReloaded) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 - [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
 - [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
 - [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
@@ -46,7 +46,7 @@ If you want to contribute, please open a pull request!
 
 - [LevelImposter](https://levelimposter.net) - create and play custom maps with ease
 - [Submerged](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
-- [BetterPolus](https://github.com/Brybry16/BetterPolus) - modified and more balanced Polus map
+- [BetterPolus](https://github.com/superidol1890/BetterPolusReloaded) - modified and more balanced Polus map
 
 ## Utility Mods
 
@@ -61,7 +61,7 @@ If you want to contribute, please open a pull request!
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
 - [Stereo](https://github.com/superidol1890/StereoReloaded) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
-- [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
+- [DarkModeAU](https://github.com/superidol1890/DarkModeAUReloaded) - dark mode for the game chat (repo archived)
 - [GameLogger](https://github.com/whichtwix/GameLogger) - log game events to a txt file (kills, tasks, meetings, etc.)
 - [SmolMod](https://github.com/xtracube/smolmod) - makes the map and pets bigger, so you feel smaller
 - [MoveMod](https://github.com/OvernightAU/MoveMod) - move / drag any player with your mouse
