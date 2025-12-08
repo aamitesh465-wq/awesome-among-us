@@ -59,7 +59,7 @@ If you want to contribute, please open a pull request!
 - [OutfitChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite outfits
 - [StringNameUtils](https://github.com/xChipseq/StringNameUtils) - replace and modify strings
 - [NikoCat233's CrowdedMod](https://github.com/NikoCat233/CrowdedMod) - updated fork of CrowdedMod, allows you to have 15+ player lobbies
-- [Stereo](https://github.com/DaemonBeast/Stereo) - set custom lobby music
+- [Stereo](https://github.com/superidol1890/StereoReloaded) - set custom lobby music
 - [VanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of QoL (quality-of-life) improvements
 - [DarkModeAU](https://github.com/the-real-techiee/DarkModeAU) - dark mode for the game chat (repo archived)
 - [GameLogger](https://github.com/whichtwix/GameLogger) - log game events to a txt file (kills, tasks, meetings, etc.)
